@@ -34,3 +34,8 @@ package-lock.json
 src/.DS_Store
 
 .DS_Store
+
+.env.server
+.env.docker
+.env.production
+Jenkinsfile
