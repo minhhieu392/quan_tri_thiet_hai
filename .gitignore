@@ -10,6 +10,10 @@
 /.env
 /userfiles
 /thuvien
+/.env.server
+/.env.docker
+/.env.production
+/Jenkinsfile
 
 /logs
 *.log
